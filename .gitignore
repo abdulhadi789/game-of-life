@@ -1,5 +1,8 @@
 
 
+*
+!.gitignore
+
 /app/some-folder-to-exclude
 /another-folder-to-exclude/*
 
