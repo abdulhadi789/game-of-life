@@ -1,3 +1,8 @@
+
+
+/app/some-folder-to-exclude
+/another-folder-to-exclude/*
+
 .DS_Store 
 .project
 .settings
